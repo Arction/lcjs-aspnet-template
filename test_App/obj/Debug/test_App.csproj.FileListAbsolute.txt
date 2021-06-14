@@ -1,0 +1,246 @@
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\test_App.dll.config
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\test_App.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\test_App.pdb
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\csc.exe
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\csc.exe.config
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\csc.rsp
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\csi.exe
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\csi.exe.config
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\csi.rsp
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.AppContext.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Console.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.IO.Compression.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Security.Claims.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.ValueTuple.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\vbc.exe
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\vbc.exe.config
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\vbc.rsp
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\VBCSCompiler.exe
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\Antlr3.Runtime.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\Newtonsoft.Json.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Helpers.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Mvc.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Optimization.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Razor.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.WebPages.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.WebPages.Razor.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\WebGrease.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Helpers.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Mvc.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Optimization.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Razor.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.WebPages.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.WebPages.Razor.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\Newtonsoft.Json.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\Antlr3.Runtime.pdb
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\obj\Debug\test_App.csproj.CoreCompileInputs.cache
+C:\Users\AjayKoli\source\repos\test_App\test_App\obj\Debug\test_App.csproj.CopyComplete
+C:\Users\AjayKoli\source\repos\test_App\test_App\obj\Debug\test_App.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\obj\Debug\test_App.pdb
+C:\Users\AjayKoli\source\repos\test_App\test_App\obj\Debug\test_App.csprojAssemblyReference.cache
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Net.Http.Formatting.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Http.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Http.WebHost.dll
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Net.Http.Formatting.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Http.xml
+C:\Users\AjayKoli\source\repos\test_App\test_App\bin\System.Web.Http.WebHost.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\test_App.dll.config
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\test_App.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\test_App.pdb
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\csc.exe
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\csc.exe.config
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\csc.rsp
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\csi.exe
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\csi.exe.config
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\csi.rsp
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.AppContext.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Console.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.IO.Compression.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Security.Claims.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.ValueTuple.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\vbc.exe
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\vbc.exe.config
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\vbc.rsp
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\VBCSCompiler.exe
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\Antlr3.Runtime.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\Newtonsoft.Json.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Net.Http.Formatting.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Helpers.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Http.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Http.WebHost.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Mvc.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Optimization.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Razor.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.WebPages.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.WebPages.Razor.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\WebGrease.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Net.Http.Formatting.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Http.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Http.WebHost.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Helpers.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Mvc.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Optimization.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.Razor.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.WebPages.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\System.Web.WebPages.Razor.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\Newtonsoft.Json.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\Antlr3.Runtime.pdb
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\obj\Debug\test_App.csproj.CoreCompileInputs.cache
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\obj\Debug\test_App.csproj.CopyComplete
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\obj\Debug\test_App.dll
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\obj\Debug\test_App.pdb
+C:\Users\ChetanaKamble\Downloads\test_App (3) (1)\test_App\test_App\obj\Debug\test_App.csprojAssemblyReference.cache
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\test_App.dll.config
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\test_App.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\test_App.pdb
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\csc.exe
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\csc.exe.config
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\csc.rsp
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\csi.exe
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\csi.exe.config
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\csi.rsp
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.AppContext.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Console.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.IO.Compression.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Security.Claims.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.ValueTuple.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\vbc.exe
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\vbc.exe.config
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\vbc.rsp
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\VBCSCompiler.exe
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\Antlr3.Runtime.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\Newtonsoft.Json.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Net.Http.Formatting.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Helpers.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Http.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Http.WebHost.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Mvc.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Optimization.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Razor.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.WebPages.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.WebPages.Razor.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\WebGrease.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Net.Http.Formatting.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Http.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Http.WebHost.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Helpers.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Mvc.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Optimization.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.Razor.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.WebPages.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\System.Web.WebPages.Razor.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\Newtonsoft.Json.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\Antlr3.Runtime.pdb
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\obj\Debug\test_App.csprojAssemblyReference.cache
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\obj\Debug\test_App.csproj.CoreCompileInputs.cache
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\obj\Debug\test_App.csproj.CopyComplete
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\obj\Debug\test_App.dll
+C:\Users\welem\Documents\LCJS\aspnet\test_App\test_App\obj\Debug\test_App.pdb

@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    //Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Using chart in HTML page</title>
+    <meta charset="utf-8" />
+    <script type="text/javascript">
+        // get array from the user 
+        let chartcollection = @Html.Raw(ViewData["DataPoints"]);
+        function submit() {
+            // Get the color values from ColorPicker
+            setcolor = document.getElementById("color").value;
+            // Get the color values from Textbox
+             set_thickness = document.getElementById("thickbox").value;
+            let Hex_color;
+            //get the color value from the color generator.
+            if (setcolor == null) {
+                Hex_color = '#0000ff';
+            } else {
+                Hex_color =  setcolor ;
+            }
+            // Extract required parts from LightningChartJS.
+            const {
+                lightningChart,
+                SolidFill,
+                SolidLine,
+                ColorHEX
+            } = lcjs //Note: arction/lcjs is not needed here, when using IIFE assembly
+            document.getElementById("target").innerHTML = "";
+            // Create a XY Chart.
+            const chart = lightningChart().ChartXY({
+                // Set the chart into a div with id, 'target'.
+                // Chart's size will automatically adjust to div's size.
+                container: 'target'
+            })
+                .setTitle('Line Series Chart') // Set chart title          
+                
+            const data = [];
+            // iterate over array and check array values.
+            for (i = 0; i < chartcollection.length; i++) {
+
+                for (var j in chartcollection[i]) {
+                    data.push({
+                        "x": chartcollection[i][j].X,
+                        "y": chartcollection[i][j].Y,
+                    });
+                }
+            }
+     
+                // Add a line series.
+            const lineSeries = chart.addLineSeries()
+                .setName('My data')
+                .setStrokeStyle((stroke) => stroke.setFillStyle(new SolidFill({ color: ColorHEX(Hex_color) })).setThickness(set_thickness))
+                .add(data)
+          }
+      </script>
+</head>
+
+<body class="box">
+    <h1 class="row header" >LightningChart<sup>&#174;</sup> JS in ASP.NET Application</h1>
+    <label for="colorpicker">Color Picker:</label>
+    <input type="color" id="color" value="#0000ff">
+    <label for="Thickness">Line Thickness:</label>
+    <input type="text" id="thickbox" value="2" pattern="\d*" maxlength="2" style="width:100px;">
+    <input type="submit" class="row button" value="View Chart" onclick="submit()" style="margin-left: 8px"> <br />
+    <!-- Create div to render the chart into-->
+    <div id="target" class="row content"></div>
+    <script src="~/chart/lcjs.iife.js"></script>
+    <script src="~/chart/xydata.iife.js"></script>
+    <link type="text/css" href="~/chart/chart.css" rel="stylesheet" />
+
+</body>
+
+</html>

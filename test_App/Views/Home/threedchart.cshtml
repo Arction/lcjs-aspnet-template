@@ -1,0 +1,114 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Using chart in HTML page</title>
+    <meta charset="utf-8" />
+
+    <script type="text/javascript">
+        let chartcollection = @Html.Raw(ViewData["DataPoints"]);
+        let chart3D;
+        function submit() {
+            rotateCameraButton = document.getElementById("chart_val");
+         
+            const {
+                lightningChart,
+                SolidFill,
+                UILayoutBuilders,
+                ColorHEX
+            } = lcjs
+
+            // Initiate chart
+             chart3D = lightningChart().Chart3D({
+                container: 'target'
+            })
+                .setTitle('3D Scatter Chart')
+
+            // Set Axis titles
+            chart3D.getDefaultAxisX().setTitle('Axis X')
+            chart3D.getDefaultAxisY().setTitle('Axis Y')
+            chart3D.getDefaultAxisZ().setTitle('Axis Z')
+
+            const dataR = [];
+            // check the number of array.
+            for (i = 0; i < chartcollection.length; i++) {
+                // check the array of array values.
+                for (var j in chartcollection[i]) {
+                    dataR.push({
+                        "x": chartcollection[i][j].X,
+                        "y": chartcollection[i][j].Y,
+                        "z": chartcollection[i][j].Z,
+                    });
+                }
+                // Create new Point Series
+                const redSeries = chart3D.addPointSeries({ pointShape: 'sphere' })
+                    .setPointStyle((pointStyle) => pointStyle
+                        .setFillStyle(new SolidFill({ color: ColorHEX(getRandomColor()) }))
+                        .setSize(30))
+                    .add(dataR)
+            }
+            // set flag for camera rotation
+            setrotation(chart3D, rotateCameraButton.checked);
+
+            //  function for random color generator
+            function getRandomColor() {
+                var letters = '0123456789ABCDEF';
+                var color = '#';
+                for (var i = 0; i < 6; i++) {
+                    color += letters[Math.floor(Math.random() * 16)];
+                }
+                return color;
+            }           
+        }
+        //for camera roatation 
+        //set rotation flag and animation for rotate camera
+        function setrotation(chart3D ){
+
+            let cameraAngle = 0
+            const dist = 1
+            const animateCameraRotation = () => {
+                if (rotateCameraButton.checked) {
+                    chart3D.setCameraLocation(
+                        {
+                            x: Math.cos(cameraAngle) * dist,
+                            y: 0.50,
+                            z: Math.sin(cameraAngle) * dist
+                        }
+                    )
+                    cameraAngle += 0.005
+                }
+                requestAnimationFrame(animateCameraRotation)               
+            }
+            animateCameraRotation()
+        }
+        
+        // checked or Unchecked camera rotation checkbox
+        // get values and set rotation             
+        function check_state() {
+            rotateCameraButton = document.getElementById("chart_val");
+            if (rotateCameraButton.checked) {
+                setrotation(chart3D, true)
+            } else {
+                setrotation(chart3D, false)
+            }
+           
+        }
+    </script>
+</head>
+<body class="box">
+    <h1 class="row header" style="text-align:center">LightningChart<sup>&#174;</sup> JS in ASP.NET Appplication</h1>
+    <input type="checkbox" id="chart_val" onclick="check_state()">
+    <label>Rotate camera</label>
+    <input type="submit" class="row button" value="View Chart" onclick="submit()" style="margin-left: 8px"> <br />
+    <!-- Create div to render the chart into-->
+    <div id="target" class="row content"></div>
+    <script src="~/chart/lcjs.iife.js"></script>
+    <script src="~/chart/xydata.iife.js"></script>
+    <link type="text/css" href="~/chart/chart.css" rel="stylesheet" />
+</body>
+
+</html>

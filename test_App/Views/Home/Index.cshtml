@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<body class="box">
+    <!-- <a href="@Url.Action("linechart", "Home")">Line Chart</a> <br />
+     <a href="@Url.Action("threedchart", "Home")">3D Chart</a>-->
+    <h2 id="using-lightningchart-sup-174-sup-js-with-asp-net-mvc-0-">Using LightningChart<sup>&#174; </sup> JS with <a href="https://dotnet.microsoft.com/apps/aspnet/mvc">ASP.Net MVC</a></h2>
+    <p>This repository showcases the usage of LightningChart<sup>&#174;</sup> JS charting tools within a ASP.Net web application.</p>
+    <p>More information about LightningChart<sup>&#174;</sup> JS can be found from our website, <a href="https://www.arction.com/lightningchart-js/">https://www.arction.com/lightningchart-js/</a></p>
+    <h2 id="getting-started">Getting Started</h2>
+    <p>This project can be opened with code editor like Visual Studio using the supplied solution file.For further details and download links, please refer to the Get Started guide for ASP.Net MVC <a href="https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started">here</a>!</p>
+    <h2 id="sending-data-from-mvc-to-lightningchart-sup-174-sup-js">Sending Data from MVC to LightningChart<sup>&#174; </sup> JS</h2>
+    <p>
+        In order to send data to LightningChart<sup>&#174; </sup> JS , using MVC framework the controller handles and responds to user input and interaction which retrieves data from model for line series(2D chart) and 3D chart. Using ViewData , data will be transfers from Controller to View.
+        For chart 2D
+    </p>
+<pre><code> string data_array = <span class="hljs-string">"[{'</span>x':<span class="hljs-number">1</span>, <span class="hljs-string">'y'</span>:<span class="hljs-number">20</span>},{<span class="hljs-string">'x'</span>:<span class="hljs-number">2</span>,<span class="hljs-string">'y'</span>:<span class="hljs-number">33</span>},{<span class="hljs-string">'x'</span>:<span class="hljs-number">3</span>, <span class="hljs-string">'y'</span>:<span class="hljs-number">42</span>},{<span class="hljs-string">'x'</span>:<span class="hljs-number">4</span>,<span class="hljs-string">'y'</span>:<span class="hljs-number">52</span>}]<span class="hljs-string">";
+                     or
+             var point = GenerateLineSeries(1, 50);     
+            // Transfer data from controller to View.
+            ViewData["</span>DataPoints<span class="hljs-string">"] = data_array;
+            return View();</span>
+</code></pre><p>For chart 3D</p>
+<pre><code> // setting <span class="hljs-built_in">number</span> of series <span class="hljs-literal">and</span> points <span class="hljs-keyword">to</span> be generated <span class="hljs-keyword">in</span> each series.
+            var point = GeneratePointSeries(<span class="hljs-number">6</span>, <span class="hljs-number">10</span>)<span class="hljs-comment">;</span>
+
+ // Transfer data from controller <span class="hljs-keyword">to</span> View.
+            ViewData[<span class="hljs-string">"DataPoints"</span>] = point<span class="hljs-comment">;</span>
+    <span class="hljs-keyword">return</span> View()<span class="hljs-comment">;</span>
+</code></pre><h2 id="support">Support</h2>
+    <p>
+        If you notice an error in the example code, please open an issue on <a href="https://github.com/Arction/lcjs-html-example/issues">GitHub</a>.
+        Official <a href="https://www.arction.com/lightningchart-js-api-documentations">API documentation</a> can be found on <a href="https://www.arction.com">Arction</a> website.
+        If the docs and other materials do not solve your problem as well as implementation help is needed, ask on <a href="https://stackoverflow.com/questions/tagged/lightningchart">StackOverflow</a> (tagged lightningchart).
+        If you think you found a bug in the LightningChart JavaScript library, please contact support@arction.com.
+        Direct developer email support can be purchased through a <a href="https://www.arction.com/support-services/">Support Plan</a> or by contacting sales@arction.com.
+    </p>
+    <p>© Arction Ltd 2009-2021. All rights reserved.</p>
+    <p>[]:  <a href="https://visualstudio.microsoft.com/">https://visualstudio.microsoft.com/</a></p>
+</body>
