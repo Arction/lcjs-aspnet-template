@@ -50,11 +50,11 @@
                     });
                 }
             }
-     
+
                 // Add a line series.
             const lineSeries = chart.addLineSeries()
                 .setName('My data')
-                .setStrokeStyle((stroke) => stroke.setFillStyle(new SolidFill({ color: ColorHEX(Hex_color) })).setThickness(set_thickness))
+                .setStrokeStyle((stroke) => stroke.setFillStyle(new SolidFill({ color: ColorHEX(Hex_color) })).setThickness(Number(set_thickness)))
                 .add(data)
           }
       </script>
