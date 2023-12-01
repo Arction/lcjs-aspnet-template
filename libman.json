@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "@arction/lcjs@5.0.4",
+      "destination": "wwwroot/lib/lcjs",
+      "provider": "jsdelivr"
+    }
+  ]
+}

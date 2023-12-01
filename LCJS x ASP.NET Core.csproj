@@ -6,5 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>LCJS_x_ASP.NET_Core</RootNamespace>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="wwwroot\lib\lcjs\dist\lcjs.iife.js" />
+  </ItemGroup>
 
 </Project>

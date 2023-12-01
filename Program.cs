@@ -1,7 +1,12 @@
+using LCJS_x_ASP.Hubs;
+using LCJS_x_ASP.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddSignalR();
+builder.Services.AddHostedService<DemoDataGenerator>();
 
 var app = builder.Build();
 
@@ -21,5 +26,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+
+app.MapHub<ChartHub>(ChartHub.Url);
 
 app.Run();
