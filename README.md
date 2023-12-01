@@ -9,10 +9,11 @@ More information can be found at [LightningChart JS documentation](https://light
 
 ## Running the template
 
-1. Place your LightningChart JS license key in `wwwroot/js/chart.js`
+1. Open the solution in Visual Studio
+2. Install client-side dependencies by opening Solution Explorer, finding `libman.json`, right clicking on it and selecting "Restore Client-Side Libraries"
+3. Place your LightningChart JS license key in `wwwroot/js/chart.js`
    - If you don't have one, you can get it from https://lightningchart.com/js-charts/#license-key
-2. Open the solution in Visual Studio
-3. Press `Start` button in Visual Studio
+4. Press `Start` button in Visual Studio
 
 ## Creation of the template
 
