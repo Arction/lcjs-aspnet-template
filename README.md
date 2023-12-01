@@ -3,7 +3,7 @@
 This repository is a minimal example of using LightningChart JS in an ASP.NET Core Web App.
 It produces a real-time scrolling time series, with data transfer from a demonstration data generator service to LCJS via a SignalR hub.
 
-TODO: recording
+https://github.com/Arction/lcjs-aspnet-template/assets/55391673/3aea8e36-c265-4941-805e-3c323f2b0b1f
 
 More information can be found at [LightningChart JS documentation](https://lightningchart.com/js-charts/docs/frameworks/asp-dot-net/)
 
@@ -34,4 +34,4 @@ LightningChart JS dependency was added using `libman.json` with following config
 }
 ```
 
-All other changes, such as creating the example application, using LCJS library and using SignalR have been isolated into one convenient Git commit which you can view TODO.
+All other changes, such as creating the example application, using LCJS library and using SignalR have been isolated into one convenient Git commit which you can view [HERE](https://github.com/Arction/lcjs-aspnet-template/commit/12f96656bbc01ef5c31b537798c91ed11131e754).
