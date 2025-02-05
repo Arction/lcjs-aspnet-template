@@ -26,8 +26,8 @@ LightningChart JS dependency was added using `libman.json` with following config
   "defaultProvider": "cdnjs",
   "libraries": [
     {
-      "library": "@arction/lcjs@5.0.4",
-      "destination": "wwwroot/lib/@arction/lcjs",
+      "library": "@lightningchart/lcjs@7.0.1",
+      "destination": "wwwroot/lib/lcjs",
       "provider": "jsdelivr"
     }
   ]

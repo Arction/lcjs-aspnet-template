@@ -3,7 +3,7 @@
   "defaultProvider": "cdnjs",
   "libraries": [
     {
-      "library": "@arction/lcjs@5.0.4",
+      "library": "@lightningchart/lcjs@7.0.1",
       "destination": "wwwroot/lib/lcjs",
       "provider": "jsdelivr"
     }
